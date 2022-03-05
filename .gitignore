@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.zip
+*.bak
 # C extensions
 *.so
 
@@ -54,6 +55,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+*.csv
 
 # Django stuff:
 *.log
