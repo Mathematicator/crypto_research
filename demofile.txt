@@ -1,0 +1,13 @@
+		\begin{tabular}{>{}l>{}p{13cm}} 			
+			\faJenkins\textsc{ DevSecOps Agile Scrum:} 
+            & \footnotesize{\cvtag{MLO
+            ps}}\footnotesize{\cvtag{TFS}}\footnotesize{\cvtag{JIRA}}\footnotesize{\cvtag{CI/CD}}\footnotesize{\cvtag{Sprint report}} \\		
+		
+			\faCalendarCheck\textsc{ Project management:} 
+            & \footnotesize{\cvtag{MSPROJECT}}\footnotesize{\cvtag{MLops}}\footnotesize{\cvtag{GANT}}\footnotesize{\cvtag{PERT}}\\
+            
+            	\faChalkboardTeacher\textsc{ Soft Management Skills:} 
+            & \footnotesize{\cvtag{Clear Communication}}\footnotesize{\cvtag{Self control}}\footnotesize{\cvtag{MSPROJECT}}\footnotesize{\cvtag{Conflict resolution}}\footnotesize{\cvtag{Positive attitude}}\footnotesize{\cvtag{Listening skills}}\footnotesize{\cvtag{Collaboration}}\footnotesize{\cvtag{Decision-making}}\\
+            
+		
+		\end{tabular}	
